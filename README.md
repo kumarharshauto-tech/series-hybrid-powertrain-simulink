@@ -33,6 +33,7 @@ Electrical energy can then:
 
 The traction motor is the only component mechanically connected to the driven wheels.
 
+![Series Hybrid Architecture](images/series-hybrid-architecture.png)
 
 ## Top-Level Simulink Model
 
